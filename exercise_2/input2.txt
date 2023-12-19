@@ -1,0 +1,8 @@
+I
+6
+L M N O P Q
+4
+I J K
+J L M
+K N O
+O P Q

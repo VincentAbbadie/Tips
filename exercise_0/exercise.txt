@@ -1,0 +1,3 @@
+List comprehension - num telephone
+OK
+telephone.txt

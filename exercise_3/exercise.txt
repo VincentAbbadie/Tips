@@ -1,0 +1,3 @@
+Jeux de lettre
+KO
+input6.txt
